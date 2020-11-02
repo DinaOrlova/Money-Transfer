@@ -7,7 +7,7 @@
 На тестирование затрачено: 20 минут.
 
 В результате функционального тестирования приложения Money Transfer выявлены следующие дефекты:
-* https://github.com/DinaOrlova/lec-1.2-zadacha-1/issues/1
+* [Ошибка при операции пополнении счета в приложении Money Transfer](https://github.com/DinaOrlova/lec-1.2-zadacha-1/issues/1)
 
 ## Описание тестов
 
@@ -34,7 +34,7 @@
 1. Данный тест показывает, что функция перевода денежных средст на текущий баланс счета клиента выполняется неверно.
 
 2. Ссылка на баг-репорт:
-* https://github.com/DinaOrlova/lec-1.2-zadacha-1/issues/1
+* [Ошибка при операции пополнении счета в приложении Money Transfer](https://github.com/DinaOrlova/lec-1.2-zadacha-1/issues/1)
 
 ## Общие рекомендации
 
